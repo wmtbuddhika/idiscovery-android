@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "747138345865",
+    "firebase_url": "https://idiscovery-c50aa.firebaseio.com",
+    "project_id": "idiscovery-c50aa",
+    "storage_bucket": "idiscovery-c50aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747138345865:android:f1c90031700c04ec3f0f58",
+        "android_client_info": {
+          "package_name": "com.project.idiscovery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747138345865-6qfnloedbus8k0p3cmhgr1kio7eeh0aq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.idiscovery",
+            "certificate_hash": "60a89624d6d8dc02cbd11858cb83592bdbda69ef"
+          }
+        },
+        {
+          "client_id": "747138345865-3oc6od0p2i6hdfvmnlk5duqltugbht9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmLdl48vYP6YD3i4IPsYKFeSV27BREu70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747138345865-3oc6od0p2i6hdfvmnlk5duqltugbht9n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

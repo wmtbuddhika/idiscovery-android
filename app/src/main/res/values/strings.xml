@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">iDiscovery</string>
+    <string name="add_activity">iDiscovery - Add Activity</string>
+    <string name="add_activity_confirm">iDiscovery - Confirm Activity</string>
+    <string name="view_activity">iDiscovery - View Activity</string>
+    <string name="search_activity">iDiscovery - Search Activity</string>
+
+    <string name="activity_name">Activity Name *</string>
+    <string name="activity_name_label">Activity Name</string>
+    <string name="activity_location">Location</string>
+    <string name="activity_date">Date *</string>
+    <string name="activity_date_label">Date</string>
+    <string name="activity_time">Time of Attending</string>
+    <string name="activity_reporter">Name of the Reporter *</string>
+    <string name="activity_reporter_label">Name of the Reporter</string>
+
+    <string name="activity_name_required">Please enter Activity Name</string>
+    <string name="activity_date_required">Please enter Activity Date</string>
+    <string name="activity_reporter_required">Please enter Name of the Reporter</string>
+
+    <string name="activity">Activity</string>
+    <string name="view">View</string>
+    <string name="reporter">Reporter</string>
+
+</resources>
